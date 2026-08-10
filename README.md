@@ -10,7 +10,7 @@ A production-grade YouTube RAG (Retrieval-Augmented Generation) system that lets
 
 ## 🎥 Project Demo
 
-[▶ Watch Demo Video](https://github.com/Piyush22536/VidMind/releases/download/v1.0.0/VIDMIND_DEMO.mp4)
+[▶ Watch Demo Video]([https://github.com/Piyush22536/VidMind/releases/download/v1.0.0/VIDMIND_DEMO.mp4](https://drive.google.com/file/d/1I4jxmepFoZvp2ZlaI6AQn8hK5ekBkF8-/view?usp=sharing))
 
 ## Tech Stack
 
